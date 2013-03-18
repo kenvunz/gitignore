@@ -42,4 +42,13 @@ Thumbs.db
 *.sass-cache
 
 # Sublime Text workpsace #
+##########################
 *.sublime-workspace
+
+# Codekit #
+###########
+*codekit-config.json
+
+# Composer #
+############
+*composer.lock
