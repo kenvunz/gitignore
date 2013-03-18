@@ -1,3 +1,5 @@
+Configure `git` in Tower.app to ignore common files/folders
+
 #Setup
 
 Launch Terminal, copy and paste the line below
