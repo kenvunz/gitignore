@@ -1,4 +1,4 @@
-Configure `git` in Tower.app to ignore common files/folders
+Configure `git` in Tower.app to ignore common files/folders globally
 
 #Setup
 
