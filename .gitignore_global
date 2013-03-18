@@ -50,3 +50,7 @@ Thumbs.db
 # Composer #
 ############
 *composer.lock
+
+# Wordpress #
+#############
+*wp-content/upgrade
