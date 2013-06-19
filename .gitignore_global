@@ -54,3 +54,7 @@ Thumbs.db
 # Wordpress #
 #############
 *wp-content/upgrade*
+
+# Compass #
+###########
+compass_app_log.txt
