@@ -38,9 +38,10 @@ Thumbs.db
 ########
 *.sass-cache*
 
-# Sublime Text workpsace #
+# Sublime Text files #
 ##########################
 *.sublime-workspace
+.sublime-grunt.cache
 
 # Codekit #
 ###########
