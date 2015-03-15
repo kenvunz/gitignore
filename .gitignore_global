@@ -41,6 +41,7 @@ Thumbs.db
 # Sublime Text files #
 ##########################
 *.sublime-workspace
+*.sublime-project
 .sublime-grunt.cache
 
 # Codekit #
